@@ -9,13 +9,41 @@ export const assets = {
     maskabutter_04,
     
 }
+export const reviews = [
 
-export const products = [
-    {
-        _id:"aaaaa",
-        name:"Chatpata Peanut Butter",
-        description:"Contains the absolut-awwing-ly delicious Oreo cookie heaven. Is it peanut butter? Is it Oreo Butter? It’s BOTH. It’s peanut oreo butter. The first of its kind, our AwwRio peanut butter is your bread’s soulmate. Try us, you’ll only go more aww for Aww-Rio!! ",
-        price:200,
-        image:[maskabutter_01,maskabutter_02,maskabutter_03,maskabutter_04,]
-    }
+  {
+    quote: "Maska Butter feels fresh, light, and flavorful. It’s now a regular item in my kitchen.",
+    name: "Priya Chatterjee",
+    rating:5
+  },
+  {
+    quote: "The texture and taste of Maska Butter are excellent. It pairs perfectly with pav and bhaji.",
+    name: "Karan Malhotra",
+    rating:4
+  },
+  {
+    quote: "Maska Butter gives a rich and authentic dairy flavor. It makes homemade food more enjoyable.",
+    name: "Swati Deshpande",
+    rating:5
+  },
+  {
+    quote: "I love how Maska Butter melts on hot food and enhances the overall taste without being too heavy.",
+    name: "Manish Agarwal",
+    rating:4,
+  },
+  {
+    quote: "I love how Maska Butter melts on hot food and enhances the overall taste without being too heavy.",
+    name: "Manish Arora",
+    rating:1,
+  },
+  {
+    quote: "I love how Maska Butter melts on hot food and enhances the overall taste without being too heavy.",
+    name: "Manish Kumar",
+    rating:3,
+  },
+  {
+    quote: "I love how Maska Butter melts on hot food and enhances the overall taste without being too heavy.",
+    name: "Manish Kumar",
+    rating:2,
+  }
 ]

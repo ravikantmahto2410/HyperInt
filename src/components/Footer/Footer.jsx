@@ -9,8 +9,8 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://www.pexels.com/photo/fitness-first-sign-1769735/"
-                                className="mr-3 h-16"
+                                src="https://www.maskabutters.in/cdn/shop/files/1stimage_bb58ba6e-30c4-40f2-940d-dd1efb313dcb.jpg?v=1751095571&width=823/"
+                                className="mr-3 w-96"
                                 alt="Logo"
                             />
                         </Link>
@@ -36,17 +36,17 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/hiteshchoudhary"
+                                        
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
                                     >
-                                        Github
+                                        LinkedIn
                                     </a>
                                 </li>
                                 <li>
                                     <Link to="/" className="hover:underline">
-                                        Discord
+                                        X
                                     </Link>
                                 </li>
                             </ul>

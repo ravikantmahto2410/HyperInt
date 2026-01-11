@@ -7,22 +7,17 @@ export default function About() {
               <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                   <div className="md:5/12 lg:w-5/12">
                       <img
-                          src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+                          src="https://www.maskabutters.in/cdn/shop/files/4_b597c3d9-c20d-4154-ad34-19a6574fa839.jpg?v=1751112540&width=823"
                           alt="image"
                       />
                   </div>
                   <div className="md:7/12 lg:w-6/12">
-                      <h2 className="text-2xl text-gray-900 font-bold md:text-4xl">
-                          React development is carried out by passionate developers
-                      </h2>
+                      
                       <p className="mt-6 text-gray-600">
-                          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum omnis voluptatem
-                          accusantium nemo perspiciatis delectus atque autem! Voluptatum tenetur beatae unde
-                          aperiam, repellat expedita consequatur! Officiis id consequatur atque doloremque!
-                      </p>
+                          Maska Butter is made for those who truly appreciate the taste of real, wholesome butter. Crafted with quality ingredients and a focus on freshness, Maska Butter delivers a rich, creamy texture and an authentic dairy flavor that elevates everyday meals. Whether it’s melting over hot parathas, spreading smoothly on toast, or adding depth to your favorite dishes, Maska Butter brings comfort, taste, and tradition together. 
                       <p className="mt-4 text-gray-600">
-                          Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-                          Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia.
+                          Our goal is simple—to offer pure, delicious butter that turns simple food into a satisfying experience, every single day.
+                      </p>
                       </p>
                   </div>
               </div>

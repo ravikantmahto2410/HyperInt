@@ -8,7 +8,7 @@ export default function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-7xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="https://www.pexels.com/photo/fitness-first-sign-1769735/"
+                            src="https://www.maskabutters.in/cdn/shop/files/4_b597c3d9-c20d-4154-ad34-19a6574fa839.jpg?v=1751112540&width=823"
                             className="mr-3 h-12"
                             alt="Logo"
                         />
