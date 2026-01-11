@@ -71,7 +71,7 @@ const Product = () => {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 max-w-7xl mx-auto w-full">
        
       <WobbleCard containerClassName="col-span-1 lg:col-span-3 bg-blue-900 min-h-[500px] lg:min-h-[600px] xl:min-h-[300px]">
-        <h1 className='font-medium text-3xl flex justify-center mb-7'>5000 Customer Ratings</h1>
+        <h1 className='font-medium text-3xl flex justify-center mb-7'>3500+ Happy Customer</h1>
         <div className='flex justify-center gap-9 flex-row'>
             <div className=''>
                 <CircularProgressbar
